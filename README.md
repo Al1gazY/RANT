@@ -1,6 +1,6 @@
 # RANT
 
-The application was created to gain experience in the field of development. Briefly RANT was created by 4 people from Astana IT University: 1 - Backend, 2 - Frontend and I was a mobile developer. 
+The application was created to gain experience in the field of development. Briefly RANT was created by 4 people from Astana IT University: 1 - Backend, 2 - Frontend and I was a mobile developer. Pods are not here you can see them in Podfile.
 
 ### Login registration
 

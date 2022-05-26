@@ -1,0 +1,26 @@
+PODS:
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - SDWebImage (~> 5.0)
+  - SwiftKeychainWrapper (~> 3.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: c8161a472e556043bce60d45e598b8dd087ed134
+
+COCOAPODS: 1.11.3

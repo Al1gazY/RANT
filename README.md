@@ -5,7 +5,10 @@ The application was created so that the user can log into his account and manage
 It was created to gain experience in the field of development. Briefly RANT was developed by 4 people from Astana IT University: 1 - Backend, 2 - Frontenders and I was a mobile developer. Pods are not here you can see them in Podfile.
 
 
-
+## CocoaPods
+- SwiftKeychainWrapper
+- SwiftyJSON
+- SDWebImage
 
 
 ## App Scenarios:

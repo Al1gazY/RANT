@@ -4,6 +4,10 @@
 The application was created so that the user can log into his account and manage his fictional balance, as well as spend the amount in the store. We used JWT tokens. 
 It was created to gain experience in the field of development. Briefly RANT was developed by 4 people from Astana IT University: 1 - Backend, 2 - Frontenders and I was a mobile developer.
 
+About a complete project:
+
+https://www.canva.com/design/DAE9ATS7CeA/KdhegVCRxrSuHTb9usctnA/view?utm_content=DAE9ATS7CeA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 
 ## CocoaPods
 - SwiftKeychainWrapper

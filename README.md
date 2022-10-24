@@ -1,10 +1,17 @@
 # RANT
 
-The application was created to gain experience in the field of development. Briefly RANT was created by 4 people from Astana IT University: 1 - Backend, 2 - Frontend and I was a mobile developer. Pods are not here you can see them in Podfile.
 
-### Login registration
+The application was created so that the user can log into his account and manage his fictional balance, as well as spend the amount in the store. We used JWT tokens. 
+It was created to gain experience in the field of development. Briefly RANT was developed by 4 people from Astana IT University: 1 - Backend, 2 - Frontenders and I was a mobile developer. Pods are not here you can see them in Podfile.
 
-JWT authentication and authorization
+
+
+
+
+## App Scenarios:
+### Login - Registration
+
+JWT authentication and authorization, after that it will save it in Keychain so that the user did not log back to the account
 
 <img width="417" alt="Снимок экрана 2022-05-26 в 18 21 32" src="https://user-images.githubusercontent.com/99682480/170486746-2790ca9c-b29c-4344-adb8-86a851c02050.png">
 <img width="417" alt="Снимок экрана 2022-05-26 в 18 21 53" src="https://user-images.githubusercontent.com/99682480/170486811-21010851-f3aa-438b-8f08-41dc0901589e.png">
@@ -37,3 +44,19 @@ By one click we can buy all the products that we have in the cart and the money 
 
 <img width="417" alt="Снимок экрана 2022-05-26 в 18 30 55" src="https://user-images.githubusercontent.com/99682480/170488136-c6aac24c-09c9-4b52-905f-885981b64c34.png">
 <img width="417" alt="Снимок экрана 2022-05-26 в 18 31 13" src="https://user-images.githubusercontent.com/99682480/170488177-ade45650-f4c1-4ff6-b7ed-b6dfb1388dae.png">
+
+##Storyboard:
+<img width="1438" alt="Снимок экрана 2022-10-24 в 20 18 03" src="https://user-images.githubusercontent.com/99682480/197563550-becd6b37-9162-4146-b4b3-f23348f18991.png">
+<img width="678" alt="Снимок экрана 2022-10-24 в 20 18 20" src="https://user-images.githubusercontent.com/99682480/197563559-eacd3141-bc8a-4b4c-83e6-303d0d1a42de.png">
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aligazy/)
+
+
+## Teammates
+
+- [@timur-code](https://github.com/timur-code) - Backend
+- [@Nazymmm](https://github.com/Nazymmm) - Frontend
+- [@Kuandyk20](https://github.com/Kuandyk20) - Frontend

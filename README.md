@@ -1,4 +1,5 @@
 # RANT
+![180](https://user-images.githubusercontent.com/99682480/204325503-46dffd31-9c85-4afc-9261-facb9f3d4069.png)
 
 
 The application was created so that the user can log into his account and manage his fictional balance, as well as spend the amount in the store. We used JWT tokens. 
